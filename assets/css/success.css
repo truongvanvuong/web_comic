@@ -1,0 +1,38 @@
+.success__order{
+    margin: 16px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.success__img{
+    margin: 12px 0;
+}
+.img{
+    width: 250px;
+}
+.success__thankyou{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.success_thankyou-title{
+    margin-bottom: 8px;
+    font-size: 1.6rem;
+}
+.success_thankyou-contact{
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.6rem;
+}
+.success-btn{ 
+}
+.success-btn-link{ 
+    display: block;
+    margin: 20px 0;
+    border-radius: 2px;
+    font-size: 1.4rem;
+    background-color: #45d6a9;
+    padding: 16px 20px;
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,45 @@
+
+.myorder__heading{
+    margin: 12px 0;
+}
+.myorder__heaing-title{
+    font-size: 2rem;
+    font-weight: 500;
+
+}
+.myorder__body{
+    margin: 20px 0;
+}
+.myorder__table{
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+.myorder__table-td{
+    border-top: 1px solid #dbdbdb;
+    padding:10px 12px ;
+    font-size: 1.5rem;
+}
+
+.myorder__img{
+    width: 80px;
+}
+.myorder_th{
+    border-radius: 4px;
+    background-color: #ec1c24;
+
+}
+.myorder__table-th{
+    color: #fff;
+    font-size: 1.6rem;
+    padding: 12px;
+}
+.myorder__link{
+    text-decoration: none;
+    color: #ec1c24;
+}
+.myorder__link:hover{
+    opacity: 0.6;
+}
+
+
